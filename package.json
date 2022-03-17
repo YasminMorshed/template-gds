@@ -1,0 +1,17 @@
+{
+  "name": "json_gds",
+  "version": "1.0.0",
+  "description": "JSON file for GDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "govuk-frontend": "^4.0.1"
+  }
+}
